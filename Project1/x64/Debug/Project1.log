@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\fabio\OneDrive\Desktop\OpenGL2.0\Project1\config.h(2,10): error C1083: Não é possível abrir arquivo incluir: 'glad/glad.h': No such file or directory
+  (compilando o arquivo fonte 'main.cpp')
+  
